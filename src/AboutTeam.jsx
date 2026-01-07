@@ -4,6 +4,7 @@ function AboutTeamSection() {
   const teamMembers = [
     {
       name: "John Doe",
+      //hello
       role: "CEO & Founder",
       description: "Visionary leader with 15+ years in tech",
       image: "👨‍💼",
